@@ -19,7 +19,7 @@ Program umožňuje:
   Přihlášení uživatele probíhá obdobně jako registrace, akorát zde již není potřeba použít email.
   Po přihlášení vás to přesměruje na domovskou stránku, kde si můžete povšimnout hlavního nadpisu, který tvoří název stránky.
   Vpravo od tohoto nadpisu je ikona umožnujíčí odhlášení uživatele.
-  O řádek níže je další nadpis, kde je napsáno "Profil" a hned pod ním jsem detaily přihlášeného uživatele,
+  O řádek níže je další nadpis, kde je napsáno "Uživatelský profil" a hned pod ním jsem detaily přihlášeného uživatele,
   kde je opět nadpis: "Detaily účtu"
   Pod ním je vypsáno:
     Uživatelské jméno;
