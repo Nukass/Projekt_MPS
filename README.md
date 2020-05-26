@@ -1,4 +1,4 @@
-"# Projekt_MPS"
+# Projekt_MPS
 Projekt na předmět MPS, kde nás učí pan Vintera Jiří, Ing.
 Jedná se o jednoduchý projekt v jazyku "Python" za použití "Flask",
 kde se vytvořil přihlašovací systém v podobě webové stránky.
