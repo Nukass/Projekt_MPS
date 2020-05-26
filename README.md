@@ -20,7 +20,7 @@ Program umožňuje:
   Po přihlášení vás to přesměruje na domovskou stránku, kde si můžete povšimnout hlavního nadpisu, který tvoří název stránky.
   Vpravo od tohoto nadpisu je ikona umožnujíčí odhlášení uživatele.
   O řádek níže je další nadpis, kde je napsáno "Uživatelský profil" a hned pod ním jsem detaily přihlášeného uživatele,
-  kde je opět nadpis: "Detaily účtu"
+  kde je opět nadpis: "Detaily profilu"
   Pod ním je vypsáno:
     Uživatelské jméno;
     Heslo;
